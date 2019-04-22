@@ -29,6 +29,7 @@ Golang 项目收集（用过的）
 + [x] 结构查看 `github.com/davecgh/go-spew/spew`
 + [ ] 写web handler(URL router and dispatcher) `github.com/gorilla/mux`
 + [x] 加载环境变量 `github.com/joho/godotenv`
++ [x] 读取环境变量 `github.com/timest/env`
 + [x] 自动化系统 `github.com/go-vgo/robotgo`
 + [ ] 二维码生成 I `github.com/skip2/go-qrcode`
 + [ ] 二维码生成II `github.com/boombuler/barcode`
