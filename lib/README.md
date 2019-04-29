@@ -27,6 +27,7 @@ Golang 项目收集（用过的）
 + [ ] 终端UI `github.com/gizak/termui` (原项目API变动中，使用`gopkg.in/gizak/termui.v2`)
 + [ ] 终端彩虹输出 `github.com/arsham/rainbow/rainbow`
 + [x] 结构查看 `github.com/davecgh/go-spew/spew`
++ [x] 结构查看 `github.com/kr/pretty`
 + [ ] 写web handler(URL router and dispatcher) `github.com/gorilla/mux`
 + [x] 加载环境变量 `github.com/joho/godotenv`
 + [x] 读取环境变量 `github.com/timest/env`
